@@ -1,0 +1,4 @@
+C:\Users\D413\Desktop\수강생413\이선우\project0819\obj\Debug\net8.0\project0819.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D413\Desktop\수강생413\이선우\project0819\obj\Debug\net8.0\project0819.AssemblyInfoInputs.cache
+C:\Users\D413\Desktop\수강생413\이선우\project0819\obj\Debug\net8.0\project0819.AssemblyInfo.cs
+C:\Users\D413\Desktop\수강생413\이선우\project0819\obj\Debug\net8.0\project0819.csproj.CoreCompileInputs.cache
